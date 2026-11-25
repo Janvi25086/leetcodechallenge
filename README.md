@@ -5,10 +5,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Janvi25086/leetcodechallenge/tree/master/0135-candy) |
+| [0137-single-number-ii](https://github.com/Janvi25086/leetcodechallenge/tree/master/0137-single-number-ii) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Janvi25086/leetcodechallenge/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 ## Greedy
 |  |
 | ------- |
 | [0135-candy](https://github.com/Janvi25086/leetcodechallenge/tree/master/0135-candy) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Janvi25086/leetcodechallenge/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/Janvi25086/leetcodechallenge/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
