@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/Janvi25086/leetcodechallenge/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Janvi25086/leetcodechallenge/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Janvi25086/leetcodechallenge/tree/master/0139-word-break) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Janvi25086/leetcodechallenge/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Janvi25086/leetcodechallenge/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Greedy
@@ -21,5 +22,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Janvi25086/leetcodechallenge/tree/master/0139-word-break) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Janvi25086/leetcodechallenge/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+## String
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Janvi25086/leetcodechallenge/tree/master/0139-word-break) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Janvi25086/leetcodechallenge/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Janvi25086/leetcodechallenge/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Janvi25086/leetcodechallenge/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Janvi25086/leetcodechallenge/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
