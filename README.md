@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Janvi25086/leetcodechallenge/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Janvi25086/leetcodechallenge/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Janvi25086/leetcodechallenge/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/Janvi25086/leetcodechallenge/tree/master/0149-max-points-on-a-line) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Janvi25086/leetcodechallenge/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Janvi25086/leetcodechallenge/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Greedy
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Janvi25086/leetcodechallenge/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Janvi25086/leetcodechallenge/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/Janvi25086/leetcodechallenge/tree/master/0149-max-points-on-a-line) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Janvi25086/leetcodechallenge/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## String
 |  |
@@ -54,4 +56,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Janvi25086/leetcodechallenge/tree/master/0140-word-break-ii) |
+## Math
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Janvi25086/leetcodechallenge/tree/master/0149-max-points-on-a-line) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Janvi25086/leetcodechallenge/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Janvi25086/leetcodechallenge/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Janvi25086/leetcodechallenge/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
